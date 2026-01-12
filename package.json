@@ -1,0 +1,16 @@
+{
+  "name": "magmawiper",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".index",
+  "scripts": {
+    "start": "node .index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
